@@ -1,2 +1,2 @@
 # WhitelistNFT
-This is a Solidity smartcontract with an whitelist/allowlist implementation. Designed for freemints.
+This is a Solidity smartcontract with a whitelist/allowlist implementation. Designed for freemints.
